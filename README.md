@@ -32,4 +32,5 @@
 <a href="https://github.com/Lazy0y" target="_blank">
 <img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<img src=https://media.discordapp.net/attachments/989196395506434059/1002671390568231022/63e4db82ab874e4992b54006939b9510.gif/>
 </div>  
