@@ -21,7 +21,7 @@
 
 ## ⚙️ Top Languages :
 
-![](https://github-readme-stats.vercel.app/api?username=JAZOW3B&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Lazy0yshow_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAZOW3B&show_icons=true&count_private=false)
 
 
